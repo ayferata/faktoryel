@@ -6,6 +6,7 @@ public class Kombinasyon {
         int n, r, nFaktoriyel = 1, rFaktoriyel = 1, nEksiRFaktoriyel = 1;
         Scanner input = new Scanner(System.in);
 
+
         System.out.print("Asıl kümenin eleman sayıyını giriniz: ");
         n = input.nextInt();
 
